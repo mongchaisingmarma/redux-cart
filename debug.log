@@ -1,0 +1,6 @@
+[1008/080202.907:ERROR:process_info.cc(359)] UncheckedAllocate
+[1008/080211.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff680450000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1008/080211.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1008/080211.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcd3200000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1008/080211.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[1008/080211.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcd2230000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
